@@ -19,7 +19,7 @@ jobs:
             plugin_stargazers: yes
             plugin_followup: yes
             plugin_stackoverflow: yes
-            plugin_stackoverflow_user: 2705847 
+            plugin_stackoverflow_user: 6630464 
             plugin_stackoverflow_sections: ''
             plugin_achievements: yes
             plugin_achievements_ignored: influencer, follower, maintainer, contributor, explorer, octonaut
