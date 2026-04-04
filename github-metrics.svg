@@ -668,7 +668,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>VoltAgent/awesome-agent-skills</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Claude Code Skills and 1000+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.</div>
@@ -715,7 +715,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>obra/ghost-pepper</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and paste.</div>
@@ -762,7 +762,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ilyamiro/nixos-configuration</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Configuration for my NixOS setup</div>
@@ -806,7 +806,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Apr 2026, 08:37:00  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2026, 09:34:16  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
